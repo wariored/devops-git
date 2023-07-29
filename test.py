@@ -1,3 +1,5 @@
 
 class MyTest:
-    pass
+    def test_print_is_work(self):
+        pass
+
