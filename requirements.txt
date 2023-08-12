@@ -2,5 +2,7 @@ fastapi==0.101.0
 uvicorn==0.23.2
 gunicorn==21.2.0
 redis==4.3.4
-httpx==0.21.2
+httpx==0.24.1
 pytest==7.4.0
+black
+ruff
